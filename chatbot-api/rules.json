@@ -1,0 +1,16 @@
+{
+    "responses": [
+        {
+            "patterns": ["hello", "hi", "hey"],
+            "response": "Hello! How can I assist you today?"
+        },
+        {
+            "patterns": ["help", "support", "assist"],
+            "response": "I'm here to help! Please tell me your issue."
+        },
+        {
+            "patterns": ["bye", "goodbye", "exit"],
+            "response": "Goodbye! Have a great day!"
+        }
+    ]
+}
